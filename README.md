@@ -4,13 +4,8 @@ Wild Quest is a 2D platformer game created using Unity. In the game, the main ch
 
 ![image](https://github.com/ProgrammerSalomeGathumbi/Wild-Quest/assets/113690133/7716a12d-0bcc-40cd-8465-9967f15769a5)
 
-Deployed Site: [Wild Quest Game](https://play.unity.com/mg/other/game-build-79)
-
-Final Project Blog Article: [My Journey Into Game Development Using Unity Game Engine.](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7084215968729567232/)     
-   
+ 
 Author: Salome Gathumbi
-
-LinkedIn: [Salome Gathumbi](https://www.linkedin.com/in/salome-gathumbi/)
 
 ## Installation
 To play Wild Quest, follow these steps:
